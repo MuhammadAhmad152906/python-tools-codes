@@ -1,0 +1,37 @@
+?? Required Libraries
+
+Here are the specific third-party libraries used in your script:
+
+
+pillow: For handling, resizing, and rendering images (PIL.Image, PIL.ImageTk).
+
+
+qrcode: For generating standard QR codes.
+
+
+python-barcode: For generating Code 128 barcodes.
+
+
+segno: For generating Data Matrix codes.
+
+::cmd command::
+
+pip install pillow qrcode python-barcode segno
+
+
+?? Required Libraries
+
+Here are the specific third-party libraries used in your script:
+
+
+opencv-python: Used to interact with your webcam and draw visual frames (cv2).
+
+
+pyzbar: Used to decode and extract data from QR codes and barcodes (pyzbar.pyzbar).
+
+
+pillow: Used for processing and opening image files (PIL.Image).
+
+::cmd command::
+
+pip install opencv-python pyzbar pillow
