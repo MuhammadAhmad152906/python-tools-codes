@@ -1,0 +1,12 @@
+# ?? Installation 
+
+## Windows 
+tkinter comes pre-installed with Python.
+
+
+
+## Linux 
+you may need to install it separately:
+```bash
+sudo apt-get install python3-tk
+```
