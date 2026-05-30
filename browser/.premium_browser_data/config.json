@@ -1,0 +1,11 @@
+{
+    "homepage": "https://www.google.com",
+    "search_engine": "https://www.google.com/search?q=",
+    "dark_mode": false,
+    "adblock": true,
+    "bookmarks": {
+        "Google": "https://www.google.com",
+        "GitHub": "https://github.com",
+        "YouTube": "https://youtube.com"
+    }
+}
